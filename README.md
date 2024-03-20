@@ -1,4 +1,4 @@
-# abdullahs-challenge-1
+# HTML Challenge 1
 
 ## Project 1
 
