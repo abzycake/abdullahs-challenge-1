@@ -12,7 +12,7 @@ The project aimed to create a cleaner, more accessible website that would be eas
 
 ## How to Use
 
-1. Open `index.html` in a web browser.
+1. Open the link in a browser
 
 ## File Structure
 
